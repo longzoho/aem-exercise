@@ -1,0 +1,2 @@
+/render0 { /hostname "aem-publish-1.internal" /port "4503" }
+/render1 { /hostname "aem-publish-2.internal" /port "4503" }
